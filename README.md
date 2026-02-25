@@ -25,7 +25,7 @@ This project demonstrates skills in:
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
